@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip":"Jayrox7.aternos.me",
-    "port": 51371,
+    "ip":"EnderAnarchy.aternos.me",
+    "port": 55056,
     "version": "",
     "try-creative": false
   },
@@ -36,7 +36,7 @@
         "I like to play Minecraft!"
       ]
     },
-    "chat-log": true,
+    "chat-log": false,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
     "max-reconnect-delay": 120000
